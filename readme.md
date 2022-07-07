@@ -1,7 +1,5 @@
 # Spring Boot Transaction Manager with @transactional
 
-<hr/>
-
 ### Objective
 
 * Achieve transaction commit even after exception using `noRollbackFor`

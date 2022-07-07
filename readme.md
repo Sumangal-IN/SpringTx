@@ -18,12 +18,10 @@ To execute locally -
 * Run spring boot using maven <br/>
   `mvn spring-boot:run`
 
-### Endpoint
+### Endpoints
 
-`GET /mark/{willFail}`
-Path Variable
-
-* `willFail` force the application to throw ETLException (see Exceptions below)
+* `GET /mark/{willFail}` <br/>
+Path Variable `willFail` will force the application to throw ETLException (see Exceptions below)
 
 ### Exceptions
 

@@ -1,4 +1,4 @@
-# Spring Boot Transaction Manager with @transactional
+# Spring Boot Transaction Manager with @Transactional
 
 ### Objective
 
